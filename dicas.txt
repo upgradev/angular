@@ -1,0 +1,5 @@
+instalar o material
+ng add @angular/material
+
+trabalhar com forms 
+import {FormsModule} from '@angular/forms';
