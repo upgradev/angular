@@ -15,7 +15,7 @@ export class Component1Component implements OnInit {
 
   ngOnInit() {
     this.num = this.myService1.num;
-    this.text
+    this.text = this.myService2.text;
   }
 
 }
