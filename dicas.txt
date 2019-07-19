@@ -4,4 +4,7 @@ ng add @angular/material
 trabalhar com forms 
 import {FormsModule} from '@angular/forms';
 
-//diretivas
+npm install --save @angular/flex-layout
+
+
+
