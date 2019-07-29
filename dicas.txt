@@ -6,5 +6,6 @@ import {FormsModule} from '@angular/forms';
 
 npm install --save @angular/flex-layout
 
+npm install --save express mongoose cors body-parser (faker -> para utilizar dados aleatorios) (bcryptjs -> encriptar dados) jsonwebtoken
 
 
