@@ -8,4 +8,12 @@ npm install --save @angular/flex-layout
 
 npm install --save express mongoose cors body-parser (faker -> para utilizar dados aleatorios) (bcryptjs -> encriptar dados) jsonwebtoken
 
+--instalar  a extensão redux dev tools no chrome para verificar os estados 
+do ngrx e instalar no projeto o comando: npm install --save-dev @ngrx/store-devtools
+
+--instalar o entity do ngrx
+npm install @ngrx/entity --save
+
+
+
 
